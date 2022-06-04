@@ -35,11 +35,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.mighty.web"
+        applicationId "com.healthdar.web"
         minSdkVersion 22
         targetSdkVersion 31
-        versionCode 16
-        versionName "4.4.0"
+        versionCode 1
+        versionName "1.1.0"
         multiDexEnabled true
     }
 

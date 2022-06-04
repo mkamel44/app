@@ -1,4 +1,4 @@
-package com.mighty.web
+package com.healthdar.web
 
 import android.content.BroadcastReceiver
 import android.os.Bundle
